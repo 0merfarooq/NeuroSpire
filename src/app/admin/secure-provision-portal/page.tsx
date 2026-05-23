@@ -421,7 +421,7 @@ export default function SecureProvisionPortalPage() {
           {/* Alert Error */}
           {errorMessage && (
             <div className="max-w-[1200px] mx-auto mb-6 p-4 bg-error/10 border border-error/30 text-error rounded-xl flex items-start gap-3 text-body-sm animate-scale-in">
-              <span className="material-symbols-outlined shrink-0">error_outline</span>
+              <span className="material-symbols-outlined shrink-0">error</span>
               <span>{errorMessage}</span>
             </div>
           )}

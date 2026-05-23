@@ -91,7 +91,7 @@ export default function ApplyPricingPage() {
 
             {/* Important Note Disclaimer callout */}
             <div className="mt-6 p-4 rounded-lg bg-warning/5 border border-warning/20 flex gap-3 text-warning-variant leading-relaxed">
-              <span className="material-symbols-outlined text-[20px] text-primary shrink-0 mt-0.5">info_outline</span>
+              <span className="material-symbols-outlined text-[20px] text-primary shrink-0 mt-0.5">info</span>
               <p className="text-[11.5px] text-on-surface-variant">
                 <span className="font-bold text-on-surface">Important Note:</span> The program registration fee is paid strictly for the Week 1 Core Training, learning systems, and expert mentorship. Direct admission to the subsequent 4-week Project Internship is merit-based and granted to students who demonstrate capability and successful selection during Week 1 training.
               </p>

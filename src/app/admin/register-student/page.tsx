@@ -301,7 +301,7 @@ export default function AdminRegisterStudentPage() {
 
               {/* Quick instructions */}
               <div className="mt-6 border-t border-outline-variant/10 pt-4 text-[12px] text-outline flex items-start gap-2">
-                <span className="material-symbols-outlined text-[16px] text-primary mt-0.5">help_outline</span>
+                <span className="material-symbols-outlined text-[16px] text-primary mt-0.5">help</span>
                 <p>
                   These accounts are kept in safe client storage (localStorage) for demonstration. In a live production system, hitting Provision registers the user securely in your Supabase Auth Database, so they can directly use `/login`!
                 </p>

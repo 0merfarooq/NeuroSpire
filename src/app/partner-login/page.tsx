@@ -144,7 +144,7 @@ export default function PartnerLoginPage() {
             <>
               {errorMessage && (
                 <div className="mb-6 p-4 bg-error/10 border border-error/30 rounded-lg flex items-start gap-2.5 text-error text-[12px] leading-relaxed animate-fade-in">
-                  <span className="material-symbols-outlined shrink-0 text-[18px]">error_outline</span>
+                  <span className="material-symbols-outlined shrink-0 text-[18px]">error</span>
                   <span>{errorMessage}</span>
                 </div>
               )}
