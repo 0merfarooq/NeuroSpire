@@ -43,7 +43,7 @@ export default function UpgradePlanPage() {
                 Regular
               </h2>
               <div className="flex items-baseline gap-1 mt-4 mb-6">
-                <span className="text-5xl font-extrabold text-on-surface">₹400</span>
+                <span className="text-5xl font-extrabold text-on-surface">₹500</span>
                 <span className="text-body-sm text-on-surface-variant">one-time difference</span>
               </div>
               

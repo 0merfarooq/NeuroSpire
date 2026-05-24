@@ -362,8 +362,8 @@ export default function HomePage() {
                   <span className="text-label-caps text-on-surface-variant">Lite</span>
                 </div>
                 <div className="flex items-baseline gap-2 mt-3 mb-4 flex-wrap">
-                  <span className="text-3xl font-bold text-on-surface">₹349</span>
-                  <span className="text-body-sm text-on-surface-variant line-through opacity-60">₹599</span>
+                  <span className="text-3xl font-bold text-on-surface">₹249</span>
+                  <span className="text-body-sm text-on-surface-variant line-through opacity-60">₹349</span>
                   <span className="text-body-sm text-on-surface-variant">/program</span>
                 </div>
                 <p className="text-body-sm text-on-surface-variant mb-6">
@@ -410,7 +410,7 @@ export default function HomePage() {
                 </div>
                 <div className="flex items-baseline gap-2 mt-3 mb-4 flex-wrap">
                   <span className="text-3xl font-bold text-on-surface">₹749</span>
-                  <span className="text-body-sm text-on-surface-variant line-through opacity-60">₹999</span>
+                  <span className="text-body-sm text-on-surface-variant line-through opacity-60">₹1249</span>
                   <span className="text-body-sm text-on-surface-variant">/program</span>
                 </div>
                 <p className="text-body-sm text-on-surface-variant mb-6">
