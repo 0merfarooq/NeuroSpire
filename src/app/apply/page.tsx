@@ -106,8 +106,8 @@ export default function ApplyPricingPage() {
                 <span className="text-2xl font-bold font-display text-on-surface tracking-widest">LITE</span>
               </div>
               <div className="flex items-baseline gap-2 mt-3 mb-4 flex-wrap">
-                <span className="text-4xl font-extrabold text-on-surface">₹249</span>
-                <span className="text-body-sm text-on-surface-variant line-through opacity-60">₹349</span>
+                <span className="text-4xl font-extrabold text-on-surface">₹349</span>
+                <span className="text-body-sm text-on-surface-variant line-through opacity-60">₹599</span>
                 <span className="text-body-sm text-on-surface-variant">/program</span>
               </div>
               <p className="text-body-sm text-on-surface-variant mb-8 min-h-[40px]">
